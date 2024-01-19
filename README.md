@@ -1,0 +1,2 @@
+# Misty
+A twitch chatbot
